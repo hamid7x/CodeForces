@@ -1,6 +1,6 @@
 //Problem 4A-Watermelon
 //Difficulty: 800
-//Topic: brute force - math
+//Topic: brute force, math
 
 #include <stdio.h>
 
